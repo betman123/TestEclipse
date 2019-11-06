@@ -5,6 +5,8 @@ public class a {
 	public void aaa(){
 		System.out.println("123");
 		System.out.println("asd");
+		System.out.println("asd");
+		System.out.println("asd");
 		System.out.println("435");
 	}
 }
